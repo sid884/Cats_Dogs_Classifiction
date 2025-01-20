@@ -18,20 +18,6 @@ The final model is trained to classify images of dogs and cats based on the extr
 
 ---
 
-## 📁 Repository Structure  
-
-```plaintext
-├── data/                     # Dataset for training and testing  
-├── notebooks/                # Jupyter notebooks for preprocessing and model training  
-├── src/                      # Source code for model implementation  
-├── results/                  # Saved models and evaluation metrics  
-├── README.md                 # Project documentation  
-├── requirements.txt          # Python dependencies  
-└── LICENSE                   # License information  
-```
-
----
-
 ## 🛠️ Techniques and Features  
 
 1. **Data Preprocessing**  
@@ -52,42 +38,6 @@ The final model is trained to classify images of dogs and cats based on the extr
 
 ---
 
-## 📦 Installation  
-
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/your-username/dogs-and-cats-prediction.git  
-   cd dogs-and-cats-prediction  
-   ```  
-
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-3. Prepare the dataset:  
-   - Place your dataset in the `data/` directory.  
-
----
-
-## 🚴‍♀️ Usage  
-
-1. Run the data preprocessing script:  
-   ```bash  
-   python src/preprocess_data.py  
-   ```  
-
-2. Train the model:  
-   ```bash  
-   python src/train_model.py  
-   ```  
-
-3. Evaluate the results:  
-   ```bash  
-   python src/evaluate_model.py  
-   ```  
-
----
 
 ## 📊 Results  
 
@@ -98,12 +48,6 @@ The trained model achieves a high level of accuracy in distinguishing between do
 ## 🖋️ Contributions  
 
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.  
-
----
-
-## 📜 License  
-
-This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
